@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Madison (she/they)
-- 👀 I’m interested in programming, music, EE, hockey, books, video games....
+- 👋 Hi, I’m Madison (she/they) -- I'm an electrical engineering student at Penn State
+- 👀 I’m interested in programming, music, anime/manga, movies, hockey, books, video games....
 - 🌱 I’m currently learning Python
 - 📫 maddie.comstock@outlook.com 
 
